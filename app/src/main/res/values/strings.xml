@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bodeguin</string>
+    <string name="logo">Logo</string>
+    <string name="login">Login</string>
+    <string name="credential">Ingrese sus credenciales</string>
+    <string name="email">Correo</string>
+    <string name="hintEmail">Ingrese su correo</string>
+    <string name="password">Contraseña</string>
+    <string name="hintPassword">Ingrese su contraseña</string>
+    <string name="forgot">¿Olvidaste tu contraseña?</string>
+    <string name="go">Ingresar</string>
+    <string name="account">¿Aun no tienes cuenta?</string>
+    <string name="here">Ingresa Aquí</string>
+    <string name="register">Register</string>
+</resources>
