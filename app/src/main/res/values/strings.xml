@@ -2,14 +2,29 @@
     <string name="app_name">Bodeguin</string>
     <string name="logo">Logo</string>
     <string name="login">Login</string>
-    <string name="credential">Ingrese sus credenciales</string>
+    <string name="credential">Ingrese tus credenciales</string>
+
     <string name="email">Correo</string>
-    <string name="hintEmail">Ingrese su correo</string>
     <string name="password">Contraseña</string>
+
+    <string name="hintEmail">Ingrese su correo</string>
     <string name="hintPassword">Ingrese su contraseña</string>
     <string name="forgot">¿Olvidaste tu contraseña?</string>
     <string name="go">Ingresar</string>
     <string name="account">¿Aun no tienes cuenta?</string>
     <string name="here">Ingresa Aquí</string>
     <string name="register">Register</string>
+    <string name="name">Nombre</string>
+    <string name="aDad">Apellido Paterno</string>
+    <string name="aMom">Apellido Materno</string>
+    <string name="dni">DNI</string>
+    <string name="address">Dirección</string>
+    <string name="register_now">Registrate!</string>
+
+
+    <string name="welcome">Bienvenido a Bodeguin!</string>
+
+    <string name="fruits">Frutas</string>
+    <string name="vegetables">Vegetales</string>
+    <string name="meats">Carnes</string>
 </resources>
